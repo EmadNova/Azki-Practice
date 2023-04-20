@@ -1,0 +1,35 @@
+:root {
+    --primary-light: #5DA0FB;
+    --primary-main: #3E8DF7;
+    --primary-dark: #1C79F6;
+    --secondary-light: #F5CD70;
+    --secondary-main: #F5BE41;
+    --secondary-dark: #F8B214;
+    --white: #fff;
+    --neutral-25: #F9F9F9;
+    --neutral-50: #EAEAEA;
+    --neutral-100: #BDBDBF;
+    --neutral-200: #9D9D9F;
+    --neutral-300: #707174;
+    --neutral-400: #555559;
+    --neutral-500: #2A2B2F;
+    --black: #000;
+
+    --h1-desktop: 4rem;
+    --h2-desktop: 2.8rem;
+    --h3-desktop: 2rem;
+    --subtitle-desktop: 1.8rem;
+    --body-desktop: 1.6rem;
+    --button-desktop: 1.6rem;
+    --subtitle2-desktop: 1.8rem;
+    --overline-desktop: 1.2rem;
+
+    --h1-mobile: 3.2rem;
+    --h2-mobile: 2.4rem;
+    --h3-mobile: 1.8rem;
+    --subtitle-mobile: 1.6rem;
+    --body-mobile: 1.4rem;
+    --button-mobile: 1.4rem;
+    --caption-mobile: 1.2rem;
+    --overline-mobile: 1rem;
+}
